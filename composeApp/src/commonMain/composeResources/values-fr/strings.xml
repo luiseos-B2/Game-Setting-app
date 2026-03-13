@@ -1,0 +1,7 @@
+<resources>
+    <string name="settings_title">PARAMÈTRES</string>
+    <string name="label_audio">AUDIO</string>
+    <string name="label_music">MUSIQUE</string>
+    <string name="label_language">LANGUE</string>
+    <string name="btn_exit">QUITTER</string>
+</resources>

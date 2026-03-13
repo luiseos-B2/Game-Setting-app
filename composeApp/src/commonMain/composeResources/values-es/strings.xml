@@ -1,0 +1,7 @@
+<resources>
+    <string name="settings_title">CONFIGURACIÓN</string>
+    <string name="label_audio">AUDIO</string>
+    <string name="label_music">MÚSICA</string>
+    <string name="label_language">IDIOMA</string>
+    <string name="btn_exit">SALIR</string>
+</resources>
